@@ -1,0 +1,14 @@
+@import "animate.css/animate.min.css";
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    max-width: 100%;
+  }
+  
+  #lottie-container {
+    width: 500px;
+    height: 500px;
+  }
+  
